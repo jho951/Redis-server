@@ -1,7 +1,5 @@
 # Central Redis Server
 
-이 저장소는 Spring Boot 애플리케이션이 아니라 중앙 Redis 인프라 저장소다.
-
 ## Contract Source
 
 - 공통 계약 레포: `https://github.com/jho951/service-contract`
@@ -23,7 +21,7 @@ Redis는 캐시와 임시 상태 저장소로만 사용한다.
 
 ## 빠른 시작
 
-IntelliJ 또는 로컬 바이너리 실행:
+로컬 실행:
 
 ```bash
 ./scripts/run.local.sh
